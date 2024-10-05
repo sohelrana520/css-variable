@@ -1,0 +1,28 @@
+.container1{
+    width: 100%;
+    background-color: #2e2e68;
+}
+.box h1 {
+    font-size: 50px;
+    font-weight: 700;
+    color: teal;
+    text-align: center;
+    border: 2px solid teal;
+    padding: auto;
+}
+.box p {
+    font-size: 20px;
+    font-weight: 400;
+    color: #0fdcdc;
+    text-align: center;
+}
+.box h2 {
+    fontSize: 50px;
+    font-weight: 400;
+    color: white;
+    text-align: center;
+}
+.box h3 {
+    color: teal;
+    text-align: center;
+}
